@@ -1,1 +1,26 @@
+# Site wide configuration
+
+title: 233
+locale: en_US
+description: skldfjlsdkj
+logo: site-logo.png
+search: true
+url: http://aaayq.github.io/ts
 theme: jekyll-theme-cayman
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: [a", "b]
+
+include: [".a"]
+exclude: ["a", "b"]
