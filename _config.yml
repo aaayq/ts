@@ -1,19 +1,2 @@
 
 theme: jekyll-theme-cayman
-# Site wide configuration
-
-title: 233
-locale: en_US
-description: 12
-logo: site-logo.png
-search: true
-url: http://aaayq.github.io/ts
-
-# Jekyll configuration
-
-permalink:   /:categories/:title/
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
