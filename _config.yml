@@ -1,3 +1,5 @@
+
+theme: jekyll-theme-cayman
 # Site wide configuration
 
 title: 233
@@ -6,7 +8,6 @@ description: 12
 logo: site-logo.png
 search: true
 url: http://aaayq.github.io/ts
-theme: jekyll-theme-cayman
 
 # Jekyll configuration
 
