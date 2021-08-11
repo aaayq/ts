@@ -1,9 +1,4 @@
----
-layout: page
-title: '???' 
-image:
-  feature: 1.png
----
+
 
 ## Welcome to GitHub Pages
 
