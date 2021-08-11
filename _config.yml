@@ -16,11 +16,3 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-
-# Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: [a", "b]
-
-include: [".a"]
-exclude: ["a", "b"]
